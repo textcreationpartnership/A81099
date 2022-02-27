@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cruel midwife. Being a true account of a most sad and lamentable discovery that has been lately made in the village of Poplar in the parish of Stepney. At the house of one Madame Compton alias Norman a midwife, wherein has been discovered many children that have been murdered ... : Also an account of the seizing or apprehending, behaviour, and commitment to Newgate, the midwife, on the account of murthering these infants.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81099</idno>
+            <idno type="STC">Wing C7419A</idno>
+            <idno type="STC">ESTC R174412</idno>
+            <idno type="EEBO-CITATION">47682885</idno>
+            <idno type="OCLC">ocm 47682885</idno>
+            <idno type="VID">172840</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172840)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2652:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cruel midwife. Being a true account of a most sad and lamentable discovery that has been lately made in the village of Poplar in the parish of Stepney. At the house of one Madame Compton alias Norman a midwife, wherein has been discovered many children that have been murdered ... : Also an account of the seizing or apprehending, behaviour, and commitment to Newgate, the midwife, on the account of murthering these infants.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Wier at the White Horse in Fleet-Street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed according to Order."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Compton, --  Madame.</term>
+               <term>Child abuse --  England --  London --  Early works to 1800.</term>
+               <term>Serial murders --  England --  London --  Early works to 1800.</term>
+               <term>Midwives --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172840:1" rendition="simple:additions"/>
+            <p>The CRUEL MIDVVIFE.</p>
+            <p>Being a True Account of a moſt Sad and La<g ref="char:EOLhyphen"/>mentable DISCOVERY that has been lately made in the Village of POPLAR in the Pariſh of STEPNEY.</p>
+            <p>At the Houſe of one Madame <hi>Compton</hi> alias <hi>Norman</hi> a Midwife, wherein has been diſcovered ma<g ref="char:EOLhyphen"/>ny Children that have been Murdered. Particularly Two that were lately found in a Hand-Basket on a Shelf in the Sellar, whoſe Skins, Eyes, and part of their Fleſh were eaten by Vermin: The Skelliton of Six others that were found buryed in the Sellar; with the deſign of digging for others in the Garden. With <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he manner of the Diſcovery.</p>
+            <p>ALSO An Account of the Seizing or Appre<g ref="char:EOLhyphen"/>hending, Behaviour, and Commitment to NEWGATE, of Madam <hi>Compton</hi> alias <hi>Norman,</hi> the Midwife, on the Account of Murthering theſe Infants.</p>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Wier</hi> at the <hi>White Horſe</hi> in <hi>Fleet-Street,</hi> 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:172840:2"/>
+            <head>The Cruel Midwife of <hi>Poplar,</hi> &amp;c.</head>
+            <p>EVery thing is carried on by a natural In<g ref="char:EOLhyphen"/>ſtinct, to the Preſervation of it ſelf in its own Being: And by the ſame Law of Na<g ref="char:EOLhyphen"/>ture even the moſt brutiſh amongſt the Bruit themſelves, may be obſerved to retain a ſpecial Kind of Indulgence and Tenderneſs towards the young The Monſters of the Sea draw out their Breaſts, and give Suck to their Young ones. The barbarous Cruelties of ſome Mid<g ref="char:EOLhyphen"/>wives, Nurſes, and <hi>even</hi> Parents to young Chil<g ref="char:EOLhyphen"/>dren, may aſſure us, That there are greater Monſtersupon the Land than are to be ſound in the Bottom of the Deep; and if ſome of theſe may extenuate their Inhumanities, by I know not what Vertuous Pretences, yet the Barbarities of the reſt muſt be wholly im<g ref="char:EOLhyphen"/>putable to their ſavage Nature, and the bl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dineſs of their Diſpoſition.</p>
+            <p>The Gentlewoman, who is the chief Sub<g ref="char:EOLhyphen"/>ject or Occaſion of the following Narrative is by Name <hi>Crompton,</hi> or leaſt generally known a<g ref="char:EOLunhyphen"/>mong the Neighbour-hood by no other Name than Madam <hi>Crompton;</hi> ſhe came to live a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Poplar,</hi> which is near <hi>Stepney,</hi> about Two Years ſince, taking a large Houſe, where none but
+<pb n="3" facs="tcp:172840:2"/>Perſons of conſiderable Rank had li-ved before, bringing with her at firſt only a Maid Servant, going for a Midwife of great note to Perſons of Quality; here ſhe had not continued long, before ſhe was obſerved to have ſeveral Chil<g ref="char:EOLhyphen"/>dren of divers Ages; but all the time of her living in this Place has been very private, not in the leaſt aſſociating herſelf with any of the Neighbourhood, or coming to Church, <hi>&amp;c.</hi> but her Maid Servant would often be in Diſ<g ref="char:EOLhyphen"/>courſe with ſome of the adjacent Neighbours Maids, being always very inquiſitive with them, but ſhe would never communicate any thing of her Miſtreſſes Domeſtick Affairs. The Mid<g ref="char:EOLhyphen"/>wife herſelf was ſcarce ever ſeen in the Neigh<g ref="char:EOLhyphen"/>bourhood, not ſo much as to ſtand at the Door, but ſteping into the Coach early in the morn<g ref="char:EOLhyphen"/>ing, and coming home in a Coach in the Night, and ſeldom or never were any Viſitants ſeen to come thither, but only ſome Gentlemen and o<g ref="char:EOLhyphen"/>thers often in the Evening or Night, except it were ſome of the Pariſh for the Kings Taxes, the Miniſters, Poor or other Duties, which ge<g ref="char:EOLhyphen"/>nerally, if ſhe hapen to be at home ſhe readily paid them at the Door, or ſent the Maid to them with the money and many compleſant Words; ſhe was obſerved to be often from home for ſeveral days together, yet ſo much
+<pb n="4" facs="tcp:172840:3"/>was her maid ſervant her Confederate &amp; Crea<g ref="char:EOLhyphen"/>ture, that the Affaires of the Houſe was kept ſo private and obſcure from the Neighbours, that they could not tell how many Children ſhe had in the Houſe, or how often changed, or otherwiſe diſpoſed of: <hi>Mrs. Crompton</hi> is be<g ref="char:EOLhyphen"/>tween Fifty and Threeſcore Years of Age, and her maid has often declared upon ſeveral Oc<g ref="char:EOLhyphen"/>caſions, That her miſtreſs has been a Midwife above Thirty Years; and 'tis generally ſaid that ſhe ſhe has followed this barbarous Infant mur<g ref="char:EOLhyphen"/>murdering Trade ſo long, the truth of which is beſt known to the Omnipreſent God, the ſearcher of Hearts, who can bring the moſt hi<g ref="char:EOLhyphen"/>den Things of Darkneſs to light, and from whom no Secret is hid, who for Reaſons beſt known to his Providence, permits ſome Per<g ref="char:EOLhyphen"/>ſons Sins to go before to Judgment, that is to be punished in this Life, and others to come af<g ref="char:EOLhyphen"/>ter, that is, reſerved to the Tribunal of the great Day.</p>
+            <p>Mrs. <hi>Crompton</hi> going out of Town the be<g ref="char:EOLhyphen"/>ginning of the laſt Week, on <hi>Friday,</hi> pretty early in the Morning, the Maid-Servant (no doubt by the Order and Appointment of the Miſtriſs) left the Houſe likewiſe, leaving at home a Boyabout Seven Years of Age, and a Girlabout Six Years Old, with a little Infant
+<pb n="5" facs="tcp:172840:3"/>in the Cradle, leaving with them for Food on<g ref="char:EOLhyphen"/>ly a piece of Cheeſe and Water, not any Beer or Bread, but bid the Boy, in caſe the young Child cryed, to give it ſome Water, and ſhe would return in a little time; all which the Boy has ſince related: The Children continuing in the Houſe alone moſt part of the Day, and no Maid returning, grew very impatient, and particularly for want of Suſte<g ref="char:EOLhyphen"/>nance, <hi>&amp;c.</hi> and the Boy bringing of it into an outward Room next the Street, a Neigh<g ref="char:EOLhyphen"/>bour's Son paſſing by, and hearing the Child cry, called to the Boy to know what was the matter; to whom he declar'd, after ſome ti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, the Reaſons: That they were left all d<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> alone in the Houſe, without Victuals, and that the young Child was almoſt ſtarved; af<g ref="char:EOLhyphen"/>ter which, Neighbours being called, the Con<g ref="char:EOLhyphen"/>ſtable and Maſters of the Pariſh were ſent for, ſome of whom coming and entring the Houſe, examined the two Chilgren, who declared as before mentioned; and farther, beſides the In<g ref="char:EOLhyphen"/>fant in the Cradle, the Boy declared there were two more that lay Dead in a Hand-basket up<g ref="char:EOLhyphen"/>on a Shelf in the Cellar; another lay Buried <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Garden, and a Fourth in the Cellar: Upon preſent ſearch, they found the Two Chil<g ref="char:EOLhyphen"/>dren in the Hand-basket as the Boy had ſaid,
+<pb n="6" facs="tcp:172840:4"/>they being moſt lamentable Objects of Hu<g ref="char:EOLhyphen"/>mane Miſery, looking at firſt ſight, were liker the Carkaſſes of Catts or Doggs than Humane Creatures, all their skin being off, as likewiſe their Eyes and part of their Fleſh eat with Vermin, ſtinking in a lamentable manner.</p>
+            <p>On <hi>Monday</hi> being <hi>21ſt.</hi> Inſtant, the Co<g ref="char:EOLhyphen"/>roners Inqueſt were Impanell'd, and coming to the Houſe where the Dead Bodies lay in the Basket, after viewing of them, they or<g ref="char:EOLhyphen"/>dered ſome Labourers (according to the Words of the Boy) to Dig in ſeveral ſoft places of the Cellar where they perceived the ground had been broken, where, after ſome time, they Dug up ſix ſeveral Skeletons of Chil<g ref="char:EOLhyphen"/>dren of ſeveral Ages; upon which Night coming on, the Coroner Adjourn'd the Jury<g ref="char:EOLhyphen"/>till the next Day, reſolving to have the ground in the Garden likewiſe to be broken up be<g ref="char:EOLhyphen"/>fore they brought in their Verdict, many of the Spectators took ſeveral of the Bones and carried them away, ſome of which are now to be ſeen at the <hi>Ben-Johnſon</hi>'s Head, near <hi>St. Brides</hi> Church by <hi>Fleetſtreet.</hi>
+            </p>
+            <p>Who were the Parents of theſe Children, or upon what account this Midwife had the keeping of them, is not certainly known, though
+<pb n="7" facs="tcp:172840:4"/>it's generally conjectured, and that not with<g ref="char:EOLhyphen"/>out a great deal of Reaſon, that theſe were thoſe commonly called <hi>By-blows,</hi> or <hi>Baſtards,</hi> which ſhe undertook, for a certain Sum of Mo<g ref="char:EOLhyphen"/>ney agreed on, to eaſe the Parents of, by keep<g ref="char:EOLhyphen"/>ing them as long as they lived. It's hoped our Grandſire Time, that brings all things to light, will unvail the Darkneſs of this hidden Myſtery of Iniquity, and expoſe the Truth as the Sun at Noon-day; In the mean time great care is taken and ſearch made in order to diſcover the Midwife or her Maid.</p>
+            <div type="postscript">
+               <head>Poſtſcript.</head>
+               <p>
+                  <hi>T<g ref="char:V">Ʋ</g>eſday, Auguſt</hi> 22. This Day the Coro<g ref="char:EOLhyphen"/>ner's Inqueſt met again, but were ad<g ref="char:EOLhyphen"/>journed till <hi>Monday,</hi> on the Account that they had done digging in the Garden, and other ports for Children, and for other Reaſons. This Day likewiſe about One in the After<g ref="char:EOLhyphen"/>noon, our Madam <hi>Compton,</hi> alias <hi>Norman,</hi> was Apprehended near <hi>Covent-Garden,</hi> and with the Aſſiſtance of the Conſtables and Beadles, being led between two Men, attended with a numerous Croud of People; ſhe was carried to the Petty Seſſions of <hi>Bloomsbury,</hi> where ſhe was Examined before their Majeſties Juſtices
+<pb n="8" facs="tcp:172840:5"/>of the Peace there fitting; who likewiſe took ſeveral Affidavits, by which ſhe is vehement<g ref="char:EOLhyphen"/>ly ſuſpected (if not poſitively charged) to have Murthered ſeveral Children that were put to her to Nurſe; upon which ſhe was from thence Committed to <hi>Newgate,</hi> by the Warrant or Mittimus ſigned by the Worſhip<g ref="char:EOLhyphen"/>full Juſtices of the Peace then on the Bench.</p>
+               <p>When our Doughty Midwife was firſt ſeized, all the way ſhe went to the Juſtices, and when ſhe came before their Worſhips, ſhe was obſerved to carry her ſelf with a great deal of Confidence, not ſeeming in the leaſt concern'd, or much denying the Fact. It has been obſerved that ſeveral Gen<g ref="char:EOLhyphen"/>tlemen and others have been ſeen to enquire at ſome of the Adjacent Ale-houſes con<g ref="char:EOLhyphen"/>cerning ſome particular Children.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172840:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
